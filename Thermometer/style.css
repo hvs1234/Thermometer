@@ -1,0 +1,11 @@
+body{background: linear-gradient(to right,rgb(94, 15, 51),rgb(165, 49, 107),rgb(255, 0, 212));}
+.container h1
+{
+    font-size: 14em;
+    padding-left: 60px;
+    font-family: 'Dosis' , sans-serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 5px 5px 2px rgb(255, 0, 0);
+}
